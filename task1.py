@@ -7,7 +7,7 @@ window.geometry("400x30")
 input1 = tk.Entry(window, width = 20)
 x = tk.Label(window, text=" x ")
 input2 = tk.Entry(window, width = 20)
-equal = tk.Label(window, text="=", relief= "groove")
+equal = tk.Button(window, text="=", relief= "groove")
 output = tk.Label(window, text = "", width = 20, relief="groove",borderwidth=1, background="white")
 
 
