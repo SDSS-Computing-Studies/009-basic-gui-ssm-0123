@@ -11,7 +11,7 @@ input2 = tk.Label(window, text="Pochacco!", bg="white")
 input3 = tk.Label(window, bg="cyan",text="A cuddly little puppy! This is from the same\n creators who brought you Keropi and Kero Kero")
 
 input1.place(x=60, y=10)
-input2.place(x=130, y=40)
+input2.place(x=130, y=0)
 input3.place(x=0, y=110)
 
 
